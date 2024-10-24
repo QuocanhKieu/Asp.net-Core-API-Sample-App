@@ -1,0 +1,241 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\Templates\\EmailTemplate\\PaymentComplete.html",
+      "PackagePath": "staticwebassets\\Templates\\EmailTemplate\\PaymentComplete.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\Templates\\EmailTemplate\\SendTicketsOrderComplete.html",
+      "PackagePath": "staticwebassets\\Templates\\EmailTemplate\\SendTicketsOrderComplete.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\Templates\\EmailTemplate\\UserArticleSubmit.html",
+      "PackagePath": "staticwebassets\\Templates\\EmailTemplate\\UserArticleSubmit.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\Culture\\Buddhism_in_Ancient_Japan.html",
+      "PackagePath": "staticwebassets\\content\\Culture\\Buddhism_in_Ancient_Japan.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\Culture\\Food_Agriculture_in_Ancient_Japan.html",
+      "PackagePath": "staticwebassets\\content\\Culture\\Food_Agriculture_in_Ancient_Japan.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\Culture\\Thanksgiving_Day.html",
+      "PackagePath": "staticwebassets\\content\\Culture\\Thanksgiving_Day.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\Event\\Art_History_Careers.html",
+      "PackagePath": "staticwebassets\\content\\Event\\Art_History_Careers.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\Event\\Echoes_of_the_Empire.html",
+      "PackagePath": "staticwebassets\\content\\Event\\Echoes_of_the_Empire.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\Event\\Our_Dearly_Departed.html",
+      "PackagePath": "staticwebassets\\content\\Event\\Our_Dearly_Departed.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\Event\\The_History_of_Musicals.html",
+      "PackagePath": "staticwebassets\\content\\Event\\The_History_of_Musicals.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\Event\\The_Louvre.html",
+      "PackagePath": "staticwebassets\\content\\Event\\The_Louvre.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\Event\\The_White_Power.html",
+      "PackagePath": "staticwebassets\\content\\Event\\The_White_Power.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\Event\\Virtual_Art.html",
+      "PackagePath": "staticwebassets\\content\\Event\\Virtual_Art.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\Event\\William_Morris.html",
+      "PackagePath": "staticwebassets\\content\\Event\\William_Morris.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\History\\Asuka_period.html",
+      "PackagePath": "staticwebassets\\content\\History\\Asuka_period.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\History\\Autonomous_era.html",
+      "PackagePath": "staticwebassets\\content\\History\\Autonomous_era.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\History\\Azuchi–Momoyama_period.html",
+      "PackagePath": "staticwebassets\\content\\History\\Azuchi–Momoyama_period.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\History\\Dong_son_culture.html",
+      "PackagePath": "staticwebassets\\content\\History\\Dong_son_culture.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\History\\Early_Cham_kingdoms.html",
+      "PackagePath": "staticwebassets\\content\\History\\Early_Cham_kingdoms.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\History\\Edo_period.html",
+      "PackagePath": "staticwebassets\\content\\History\\Edo_period.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\History\\First_Chinese_domination.html",
+      "PackagePath": "staticwebassets\\content\\History\\First_Chinese_domination.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\History\\Funan_kingdom.html",
+      "PackagePath": "staticwebassets\\content\\History\\Funan_kingdom.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\History\\Golden_Age_of_Cham_Civilization.html",
+      "PackagePath": "staticwebassets\\content\\History\\Golden_Age_of_Cham_Civilization.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\History\\Kamakura_period.html",
+      "PackagePath": "staticwebassets\\content\\History\\Kamakura_period.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\History\\Kingdom_of_Van_Xuan.html",
+      "PackagePath": "staticwebassets\\content\\History\\Kingdom_of_Van_Xuan.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\History\\Meiji_period.html",
+      "PackagePath": "staticwebassets\\content\\History\\Meiji_period.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\History\\Nanyue.html",
+      "PackagePath": "staticwebassets\\content\\History\\Nanyue.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\History\\Nara_period.html",
+      "PackagePath": "staticwebassets\\content\\History\\Nara_period.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\History\\Prehistoric_period.html",
+      "PackagePath": "staticwebassets\\content\\History\\Prehistoric_period.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\History\\Second_Chinese_domination.html",
+      "PackagePath": "staticwebassets\\content\\History\\Second_Chinese_domination.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\History\\Third_Chinese_domination.html",
+      "PackagePath": "staticwebassets\\content\\History\\Third_Chinese_domination.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\History\\Trung_Sisters.html",
+      "PackagePath": "staticwebassets\\content\\History\\Trung_Sisters.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\History\\au_lac_kingdom.html",
+      "PackagePath": "staticwebassets\\content\\History\\au_lac_kingdom.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\History\\ly_tran_ho_dynasties.html",
+      "PackagePath": "staticwebassets\\content\\History\\ly_tran_ho_dynasties.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\content\\History\\ngo_dinh_le_dynasties.html",
+      "PackagePath": "staticwebassets\\content\\History\\ngo_dinh_le_dynasties.html"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\uploads\\avatars\\1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\uploads\\avatars\\2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\uploads\\avatars\\default-avatar.png",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\default-avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\uploads\\images\\userArticleThumbnails\\256a197b-603f-4e48-85e2-1ddacef2581a_7685.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\userArticleThumbnails\\256a197b-603f-4e48-85e2-1ddacef2581a_7685.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\uploads\\images\\userArticleThumbnails\\25795a25-82f9-4d7c-97e3-d1d97c1269b5_7685.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\userArticleThumbnails\\25795a25-82f9-4d7c-97e3-d1d97c1269b5_7685.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\uploads\\images\\userArticleThumbnails\\36017a85-22fe-403c-83c2-cde9216c4726_7685.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\userArticleThumbnails\\36017a85-22fe-403c-83c2-cde9216c4726_7685.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\uploads\\images\\userArticleThumbnails\\5e14bfcf-699a-4bf6-9c8e-1f6a710baf1c_11029.jpg.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\userArticleThumbnails\\5e14bfcf-699a-4bf6-9c8e-1f6a710baf1c_11029.jpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\uploads\\images\\userArticleThumbnails\\856b7c05-9127-46ea-9800-779e67389098_7685.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\userArticleThumbnails\\856b7c05-9127-46ea-9800-779e67389098_7685.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\uploads\\images\\userArticleThumbnails\\94a50dab-38fe-4055-adc4-a9798788e5a7_7685.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\userArticleThumbnails\\94a50dab-38fe-4055-adc4-a9798788e5a7_7685.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\uploads\\images\\userArticleThumbnails\\9579f6ec-50d5-4b5f-98e5-fc3941d19016_7685.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\userArticleThumbnails\\9579f6ec-50d5-4b5f-98e5-fc3941d19016_7685.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\uploads\\images\\userArticleThumbnails\\9ae1fc81-b222-4edc-a31a-9354d5de300f_7685.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\userArticleThumbnails\\9ae1fc81-b222-4edc-a31a-9354d5de300f_7685.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\uploads\\images\\userArticleThumbnails\\9b829a0b-d594-4866-a478-e6f8d45f5969_7685.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\userArticleThumbnails\\9b829a0b-d594-4866-a478-e6f8d45f5969_7685.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\uploads\\images\\userArticleThumbnails\\9ff1827e-df40-4fef-8af8-20850ba585c3_11029.jpg.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\userArticleThumbnails\\9ff1827e-df40-4fef-8af8-20850ba585c3_11029.jpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\uploads\\images\\userArticleThumbnails\\a7571014-742f-47f7-a4f7-ee2d2db4a532_7685.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\userArticleThumbnails\\a7571014-742f-47f7-a4f7-ee2d2db4a532_7685.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\uploads\\images\\userArticleThumbnails\\ab87bc41-0b2e-4370-894d-8f1af887fa6c_11029.jpg.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\userArticleThumbnails\\ab87bc41-0b2e-4370-894d-8f1af887fa6c_11029.jpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\uploads\\images\\userArticleThumbnails\\ae4ba3cf-d884-47a9-90d4-f0d2d2ddcabb_7685.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\userArticleThumbnails\\ae4ba3cf-d884-47a9-90d4-f0d2d2ddcabb_7685.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\uploads\\images\\userArticleThumbnails\\ce2e8ed1-fa33-41ad-a715-e7678dcf2bc9_11029.jpg.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\userArticleThumbnails\\ce2e8ed1-fa33-41ad-a715-e7678dcf2bc9_11029.jpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\uploads\\images\\userArticleThumbnails\\d5ce258c-43f4-4407-9c01-05a4b2db1fa7_7685.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\userArticleThumbnails\\d5ce258c-43f4-4407-9c01-05a4b2db1fa7_7685.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\uploads\\images\\userArticleThumbnails\\default-article-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\userArticleThumbnails\\default-article-thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\.Net-API_BigAssignment\\T2305M_API\\wwwroot\\uploads\\images\\userArticleThumbnails\\f9ef07a4-1294-46c0-a9b8-973207075635_7685.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\userArticleThumbnails\\f9ef07a4-1294-46c0-a9b8-973207075635_7685.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.T2305M_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.T2305M_API.props",
+      "PackagePath": "build\\T2305M_API.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.T2305M_API.props",
+      "PackagePath": "buildMultiTargeting\\T2305M_API.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.T2305M_API.props",
+      "PackagePath": "buildTransitive\\T2305M_API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

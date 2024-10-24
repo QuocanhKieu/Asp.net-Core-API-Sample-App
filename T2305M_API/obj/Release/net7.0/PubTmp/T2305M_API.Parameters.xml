@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="demoApiHistory" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\KieuQuocAnh\\Desktop\\MouseWithoutBorders\\\.Net-API_BigAssignment\\\.Net-API_BigAssignment\\\.Net-API_BigAssignment\\T2305M_API\\obj\\Release\\net7\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
